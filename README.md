@@ -1,4 +1,4 @@
-# DL_practice
+# Practice_DeepLearning
 
 <a href="https://summerbook.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY-125925?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 
