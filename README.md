@@ -1,4 +1,4 @@
-# Practice_DeepLearning
+# Practice_Deep Learning
 
 <a href="https://summerbook.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY-125925?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 
@@ -14,4 +14,9 @@
 #### SOM(Self-Organizing Map)
 대뇌피질의 시각피질의 학습 과정을 모델화한 인공신경망으로써 자율 학습에 의한 클러스터링을 수행하는 알고리즘
 
+
+
+
+
+##### Udemy course: Deep Learning A-Z with Python, Tensorflow, Pytorch
 
