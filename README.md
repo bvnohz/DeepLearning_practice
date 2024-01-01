@@ -4,7 +4,7 @@
 
 #### ANN(Artificial Neural Network)
 딥 러닝의 가장 핵심적인 기술로써, 신경 세포인 neuron을 추상화한 artificial neuron으로 구성된 네트워크
-
+ 
 #### CNN(Convolution Neural Network)
 데이터로부터 직접 학습하는 딥러닝의 신경망 아키텍처
 
